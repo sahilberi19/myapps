@@ -1,6 +1,4 @@
 Hello my new world of devops.
 Whats going on.
 first modification
-welcome to devops training.
-new allign.
-last line to change.
+
